@@ -1,0 +1,8 @@
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":30,"msg":"ContactLab API stubber listening on port 8081 reading from path /Users/paolo/Projects/personal/the-good-party-saray/data using base path ","time":"2017-04-30T18:13:30.492Z","v":0}
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":30,"msg":"preferring stub over API endpoint","time":"2017-04-30T18:13:30.493Z","v":0}
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":30,"msg":"Stubbing API call GET / with no endpoint specified","time":"2017-04-30T18:14:23.932Z","v":0}
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":50,"msg":"Probably this is not the API response you are looking for, missing JSON file for /","time":"2017-04-30T18:14:23.933Z","v":0}
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":30,"msg":"Stubbing API call GET /favicon.ico with no endpoint specified","time":"2017-04-30T18:14:24.111Z","v":0}
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":50,"msg":"Probably this is not the API response you are looking for, missing JSON file for /favicon.ico","time":"2017-04-30T18:14:24.111Z","v":0}
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":30,"msg":"Stubbing API call GET /simple with no endpoint specified","time":"2017-04-30T18:14:33.656Z","v":0}
+{"name":"saray","hostname":"outatime.fritz.box","pid":15814,"level":30,"msg":"Loading data from /Users/paolo/Projects/personal/the-good-party-saray/data/simple.GET.json","time":"2017-04-30T18:14:33.656Z","v":0}

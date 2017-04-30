@@ -1,0 +1,14 @@
+{
+  "name": "the-good-party-saray",
+  "version": "1.0.0",
+  "description": "Data stubbing talk for MilanoJS @ Microsoft House",
+  "main": "index.js",
+  "scripts": {
+    "start": "saray --path data --log saray.log.json"
+  },
+  "author": "Paolo Ferretti <paolo@paoloferretti.net>",
+  "license": "MIT",
+  "dependencies": {
+    "saray": "1.7.0"
+  }
+}
