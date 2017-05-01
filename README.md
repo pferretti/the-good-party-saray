@@ -3,6 +3,10 @@
 
 Data stubbing talk for MilanoJS @ Microsoft House
 
+- Original keynote slides: https://github.com/pferretti/the-good-party-saray/raw/master/the-good-party-saray.key
+- Keynote slides in HTML format: https://pferretti.github.io/the-good-party-saray/the-good-party-saray
+- PDF slides: https://github.com/pferretti/the-good-party-saray/raw/master/the-good-party-saray.pdf
+- JPEG slides: https://github.com/pferretti/the-good-party-saray/tree/master/the-good-party-saray-imgs
 - Talk issue: https://github.com/milano-js/good-party-2017/issues/6
 - Saray: https://github.com/contactlab/saray
 - Saray demo: https://github.com/contactlab/saray-demo
